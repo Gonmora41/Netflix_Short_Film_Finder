@@ -42,6 +42,8 @@ EDA involved exploring the Catalogue data to answer key questions, such as:
 - How is the content distributed by decade?
 - Which countries have the most content from?
 
+![Dashboard](Dashboard.png)
+
 ### Data Analysis
 
 - When I realized that the catalogue was mostly updtated, I wanted to see how could I use it to improve my Netflix experience. One of the greatest pain point I find with their platform is the time I waste when choosing what to watch. Also, there is not much room to filter the movies by duration, only by genre. With this in mind, and knowing that there might be a lot of unkown good short movies I created the short movie finder in order to erase the multiple options that makes me spend more time deciding than watching.
