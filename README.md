@@ -48,7 +48,7 @@ EDA involved exploring the Catalogue data to answer key questions, such as:
 
 - When I realized that the catalogue was mostly updtated, I wanted to see how could I use it to improve my Netflix experience. One of the greatest pain point I find with their platform is the time I waste when choosing what to watch. Also, there is not much room to filter the movies by duration, only by genre. With this in mind, and knowing that there might be a lot of unkown good short movies I created the short movie finder in order to erase the multiple options that makes me spend more time deciding than watching.
 
-![Finder in action](Finder-in-action.png)
+![Finder in action](Finder-in-action2.png)
 ### Recommendations
 
 - Adding a time-filter in the UI would be great to find hidden gems in the catalogue and could potentially help improve the experience of indecisive users.
