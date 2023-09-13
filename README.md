@@ -57,6 +57,12 @@ EDA involved exploring the Catalogue data to answer key questions, such as:
 
 - The Catalogue is not fully updated and one may experience region restrictions
 
+### Further improvements
+
+There is a lot of things to do to improve this project. Here are some of them:
+- Reducing the dashboard in half by having the graphs dinamically change to show movies or TV shows. Or maybe even both together. This was the first approach, but then I started to model the data and thought that I could split Movies and TV Shows into two different tables, hence this split.
+- Improve the modeling of data in orther to explore more data that would be impossible otherwise, like showing stats about cast and directors. 
+
 ### References
 
 This was my first solo-project. But I did have the constant help of [ChatGPT](https://chat.openai.com/) for every minor detail that I didn't know how to handle. 
