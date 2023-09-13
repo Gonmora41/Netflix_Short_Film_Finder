@@ -23,7 +23,6 @@ Netflix Data: The primary dataset used for this analysis is the "netflix_titles.
 
 ### Tools
 
-- Power Query - Data cleaning & Modeling [[Download here]](https://powerquery.microsoft.com/en-us/)
 - Excel - Data Analysis, Creating the Finder & reports [[Download here]](https://office.com/en-us/)
 
 ### Data Cleaning/Preparation
