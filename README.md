@@ -1,4 +1,4 @@
-# Netflix Short Movie Finder
+# Netflix Short Film Finder
 
 ## Table of Contents
 
